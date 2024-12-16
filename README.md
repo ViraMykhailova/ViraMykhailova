@@ -14,7 +14,7 @@ I'm currently seeking my first opportunity in frontend development to gain hands
 
 ## 📂 My Projects:
 - **[E-commerce Product Page + Cart](https://github.com/ViraMykhailova/ECOMMERCE-SHOP):** A responsive product and cart page built with React, Context API, React Router, and TailwindCSS.  
-- **[Burgers App](https://github.com/ViraMykhailova/burgers-app-test):** A test project using React, Redux Toolkit, Bootstrap, and Toastify.  
+- **[Burgers App](https://github.com/ViraMykhailova/burgers-app-test):** A pet project using React, Redux Toolkit, Bootstrap, and Toastify.  
 - **[Hiking Landing Page](https://github.com/ViraMykhailova/hiking-landing):** A dynamic landing page featuring SCSS, JS, Slider-Swiper, and Scroll Reveal animations.  
 
 
