@@ -13,10 +13,13 @@ I'm currently seeking my first opportunity in frontend development to gain hands
 - 🌱 I’m currently learning TypeScript
 
 ## 📂 My Projects:
-- **[E-commerce Product Page + Cart](https://github.com/ViraMykhailova/ECOMMERCE-SHOP):** A responsive product and cart page built with React, Context API, React Router, and TailwindCSS.  
+
 - **[Burgers App](https://github.com/ViraMykhailova/burgers-app-test):** A pet project using React, Redux Toolkit, Bootstrap, and Toastify.
-- **[Movie Gallery](https://github.com/ViraMykhailova/movie-gallery):** A movie gallery app using React, React Router, Redux Toolkit, SCSS and React-Slick.
 - **[Hiking Landing Page](https://github.com/ViraMykhailova/hiking-landing):** A dynamic landing page featuring SCSS, JS, Slider-Swiper, and Scroll Reveal animations.
+- **[E-commerce Product Page + Cart](https://github.com/ViraMykhailova/ECOMMERCE-SHOP):** A responsive product and cart page built with React, Context API, React Router, and TailwindCSS.
+- **[Product List App](https://github.com/ViraMykhailova/product-list-app):** A product listing application that allows users to browse, search, filter, and add/remove products from the cart developed using Vanilla JS, HTML, Tailwind CSS classes.
+- **[Movie Gallery](https://github.com/ViraMykhailova/movie-gallery):** A movie gallery app using React, React Router, Redux Toolkit, SCSS and React-Slick.
+
     
 
 ## 📫 Let’s Connect:
